@@ -1,0 +1,40 @@
+position relative-deoa hole kono img jodi relative kore 
+tobe image ter jaiga boraddo rekhe top ba boton e shift kore--er top  ,left er jonno kono parent lage na
+
+absolute relative or static position chara parent 
+hisabe <body/> tag ke parent dhore. 
+
+
+tai,absolute er parent dorker tai relative ke div e
+rakha lage
+
+
+tailwind responsive korte hole :
+agee big screen er jonno flex-col dite hobe erpor md:flex-row dile responsive kaj korbe
+
+
+
+The div will be at least 200px tall, but it can become taller if the content needs more space.
+<div class="min-h-[200px]">
+  Hello
+</div>
+The div will be at least 200px tall, but it can become taller if the content needs more space.
+
+/*************************************/
+w-[1200px]
+the element's width on pc screen is fixed at 1200px.
+
+/*************************************/
+h-full
+ata sompurno hight jure thakbe
+
+/*************************************/
+
+ w-1/2
+ eta pura width er odhek nibe
+
+/*************************************/
+ <p class="text-[#ff5733]">Hello</p>
+text-[value]
+
+Tailwind CSS v3/v4-এ সাধারণত কাজ করার কথা।text-[#ff5733] এটাকে Tailwind-এর arbitrary value বলা হয়।
